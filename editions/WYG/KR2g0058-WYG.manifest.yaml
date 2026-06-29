@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR2g0058/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2g0058/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 保越錄
+  date: '2015-08-24 22:36:42.154526'
+  source:
+    repository: kanripo
+    path: KR2g0058
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2g0058_000-WYG.yaml, hash: 'sha256:e29a0606c89c0b1be7c186886895139ddf3c5391ac8bee29a793bcdac2f1f0b4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2g0058_000-WYG.markers.yaml, hash: 'sha256:8b37c037d0dffd79f634075e731a61c546e30d1bb6e1ae6ddf234efc43afeece'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2g0058_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 273
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0058_WYG_000-3a
+    span:
+    - body
+    - 273
+    - 8485
+  label: 保越録
+  type: section
+  level: 1
+hash: sha256:04bb38206af27d174e8129aa6a466cb08f3ac46c51318d8ed184a4199208250a
