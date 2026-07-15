@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2g0058/v1
 canonical_location: https://kanripo.org/bkk/KR2g0058/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 保越錄
   date: '2015-08-24 22:36:42.154526'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2g0058_000.yaml, hash: 'sha256:d01c784313bf105a9266d0eff9667d07c04001fbb809852341819322de5f5f0a'}
+  - {seq: 0, filename: KR2g0058_000.yaml, hash: 'sha256:579b6cbd371a334de02d996317d57ec52677f1a7a6720e3afb6c13eee13615c1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2g0058_000.markers.yaml, hash: 'sha256:146136976297a7a782f9ff50795caf4e2bb73e0a1b8be0cfee24c850a0fcd35b'}
+  - {seq: 0, role: markers, filename: assets/KR2g0058_000.markers.yaml, hash: 'sha256:9b7608ce49b17d22f14e9f0d7e2e4e62a890e7449ff1a228e4b8930bf2b91642'}
 table_of_contents:
 - ref:
     seq: 0
@@ -44,4 +44,7 @@ table_of_contents:
   label: 保越録
   type: section
   level: 1
-hash: sha256:ddeeeacda1bb58c71c7e4c0da2ba3d9287672d5ec45a406daaf68edae0c25b03
+hash: sha256:e7c41d0b69b47452e6e671aaf6300f16651f0a01ff55023b030285adc2aeda5c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
