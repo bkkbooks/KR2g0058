@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2g0058_000-WYG.yaml, hash: 'sha256:e29a0606c89c0b1be7c186886895139ddf3c5391ac8bee29a793bcdac2f1f0b4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2g0058_000-WYG.markers.yaml, hash: 'sha256:8b37c037d0dffd79f634075e731a61c546e30d1bb6e1ae6ddf234efc43afeece'}
+  - {seq: 0, role: markers, filename: assets/KR2g0058_000-WYG.markers.yaml, hash: 'sha256:d0ba6994d2e5de35d8dcdc6da2dda45ed3c05cf07d3d1c86f4b6e7a86d786fa1'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 保越録
   type: section
   level: 1
-hash: sha256:04bb38206af27d174e8129aa6a466cb08f3ac46c51318d8ed184a4199208250a
+hash: sha256:8c121dc971454a50da7724f03f6ab2a245170b85335a1c0effa6be7ba402dcba
